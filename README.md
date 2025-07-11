@@ -33,11 +33,10 @@
 
 | Layer    | Technology            |
 |----------|------------------------|
-| Frontend | React + Tailwind CSS  |
-| Backend  | Node.js + Express     |
+| Frontend | Next.js + Tailwind CSS  |
+| Backend  | TypeScrpt              |
 | Auth     | JWT + bcrypt          |
-| Database | MongoDB (Mongoose)    |
-| State    | React Context API     |
+| Database | MongoDB (Mongoose)    | 
 | Styling  | Tailwind CSS          |
 
 
